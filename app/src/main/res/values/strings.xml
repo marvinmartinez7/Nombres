@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Enviar Informacion</string>
+    <string name="name">Nombre</string>
+    <string name="namee">Ingresar El Nombre</string>
+    <string name="ape">Apellido</string>
+    <string name="appna">Ingresar el Apellido</string>
+    <string name="edad">Edad</string>
+    <string name="eed">Ingresar la Edad</string>
+    <string name="correo">Correo</string>
+    <string name="email">Ingresar el Correo</string>
+    <string name="butt">Enviar Informacion</string>
+</resources>
